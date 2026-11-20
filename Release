@@ -1,15 +1,15 @@
-Origin: lkyyp 的源
-Label: lkyyp 的源
+Origin: lkyyp
+Label: lkyyp
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: lkyyp 的越狱软件源
-Support: https://lkyyp.github.io/lkyyp.github.io/
+Support: https://lkyyp.github.io/Lkyyp.github.io/
 MD5Sum:
  659d3565a128b4fcf303ea4dd983bf1c  71518 Packages
- 8daac337a7cc54faddd7a2be33e25a88  28945 Packages.gz
+ 36396179d4947edb76d4ca09fdb22828  28945 Packages.gz
 SHA256:
  0b89397f88b649ba34ad6cc1c38aad7f7e970412c730bd79aa349298f5c8b710  71518 Packages
- f2b3c3a475dd634e9d09b443a26112a7090c06478af246b9da668e99a8c26f07  28945 Packages.gz
+ 3f2943fe28e394f78f80263ab2319dcb1dc805d2b83f983f87d755ba8458cd50  28945 Packages.gz
