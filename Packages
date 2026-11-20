@@ -81,6 +81,24 @@ Author: Ruphane
 Icon: https://axs66.github.io/pro/icon/pogr.png
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/pogr/js.json
 
+Package: com.alex.solo
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: Alex
+Installed-Size: 1792
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.oakstheawesome.solo
+Filename: debs/Solo-Alex-1.1-rootless.deb
+Size: 411616
+MD5sum: ab6127d076beddcfdec4b5277511208c
+SHA1: 02710dc082fd1b73c5a09c0d174364e18dade547
+SHA256: 2d7277b74d58ef7fb73470591acc3f94346c3594c6c76fe38e283635e6366293
+SHA512: c7a671a38a5cc4f46217c8d045acde59e194080f0314ea5646dfae0b5b83f5a16573e4d89ba8806a3d3dbd430bcbe4964f74a7f4b8d14d2151a1124f9d833f1f
+Description: Solo top bar compatibility edition. Original Solo by OaksTheAwesome.
+Name: Solo
+Author: Alex
+
 Package: com.nx.accode
 Architecture: iphoneos-arm64e
 Version: 1.0
