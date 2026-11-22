@@ -99,6 +99,122 @@ Description: Solo top bar compatibility edition. Original Solo by OaksTheAwesome
 Name: Solo
 Author: Alex
 
+Package: byg.iosios.net.afns
+Architecture: iphoneos-arm64
+Version: 3.5.9
+Section: 微信插件
+Maintainer: 搬运工
+Installed-Size: 5412
+Depends: firmware (>= 15.0)
+Conflicts: com.tencent.xin.dkhelper, com.dkjone.dkhelper, com.afn.helper, com.xiaoxin.helper, com.afn
+Filename: debs/byg.iosios.net.afns_3.5.9_iphoneos-arm64.deb
+Size: 3760822
+MD5sum: d2d92fda39ec5e0e6fb72a1e1cdb68c8
+SHA1: 253660c3a7c43f6e65df66798e6ed71cb7236ee1
+SHA256: f1c1ec19985a686fb5e7a24454d1b1e5afe9061fd134ff9818c6ccb58203bf73
+SHA512: 677ab0099749c42b37c04f85ad98a26bde8e7c51d612a1a9aa110c09200efff35123149ea2a051c721c9d9fdc0f193b3b7addd687d4bc25127dd57c244d652d1
+Description: 微信超多功能插件集合在一起，你想要的功能全都有，如果遇到微信闪退，请尝试禁用微信热更新，或者更换微信版本，这款插件基本能满足你所有需要，尽情享受吧，搬运工源，永久免费！请大家多多支持！
+Name: 微信功能大杂烩
+Author: AFN Team
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
+
+Package: byg.iosios.net.dynamicislandring
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Section: 杂七杂八
+Maintainer: 搬运工
+Installed-Size: 428
+Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
+Filename: debs/byg.iosios.net.dynamicislandring_1.1.0_iphoneos-arm64.deb
+Size: 81926
+MD5sum: 709393a143115718745af686a0877d74
+SHA1: 39f8ee7cbf054bd748c9dd2008e6c60cd8b3bc5a
+SHA256: 3d363f232641b6f23e8600336736e240d6bf6ef04d4fe186c5666fb7f0f67604
+SHA512: 934723dc70af763a3ccdfee66c140d2a3c8cd63e78db53f6f63b688c4bb607fada2d196eeaac543ad64045da2c24c2ebc5b6279ccc651417876cbbef3ea02786
+Description: 灵动岛音乐进度环增强插件，放歌的时候，专辑上会有进度环，由搬运工源管理夜辰开发，感谢分享！搬运工源永久免费！
+Name: 灵动岛进度环
+Author: 夜辰
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
+
+Package: byg.iosios.net.iphoneduoicon
+Architecture: iphoneos-arm64
+Version: 0.1.21
+Section: 杂七杂八
+Maintainer: 搬运工
+Installed-Size: 728
+Depends: firmware (>= 16.0), firmware (<< 19.0), mobilesubstrate, preferenceloader
+Conflicts: com.82flex.singlevpn
+Filename: debs/byg.iosios.net.iphoneduoicon_0.1.21_iphoneos-arm64.deb
+Size: 199646
+MD5sum: 93f3ac61cd5afe145727575ca28e7e06
+SHA1: 789ffe0c50f2acebeddf34d8a08900b5cc4b384d
+SHA256: bc49c8df1e0c13e38ed0762ab375782311af898c270c05cbec1988cae4e3d101
+SHA512: c9069adaf241014767053461a59f17d4b435f1cbe0a213a869b86cfb5feb87801da00ff81f5e0369ed8fa43c3abd6499888521be8b7336cfe11bc6184fb42a8a
+Description: Combined battery, Wi-Fi and dual-line cellular status icon.电量、wi-Fi与蜂窝信号一体化，提供星环和胶囊两种状态栏样式。效果看截图，还是非常的不错的，搬运工源永久免费更新！
+Name: iPhoneDuo圆形图标
+Author: Banana
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
+
+Package: byg.iosios.net.oakstheawesome.solo
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: 杂七杂八
+Maintainer: 搬运工
+Installed-Size: 1792
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: debs/byg.iosios.net.oakstheawesome.solo_1.0.2_iphoneos-arm64.deb
+Size: 714274
+MD5sum: 0e21158426c5ddf3d35b0fcda51097ac
+SHA1: fd5be90b1931498b48560371f6588ae4a11d4ec8
+SHA256: 127850392cda2845c748b74c45786309810c4e0ad8616e5d5d55baacbf1ae872
+SHA512: f2e294c738ed7bcef22bafb30b1e02be4e106569967e618aecdd8488b326780bc993f1d3aa67138cb7a2e49caf60a11159fa9fccab40af5d0b0cd35633b2bf78
+Description: An iPhone Duo inspired UI tweak修改改桌面成折叠机苹果 duo 的样子，如果无效请卸载！无汉化，不做过多测试！
+Name: Solo（Duo桌面）
+Author: OaksTheAwesome
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
+
+Package: byg.iosios.net.siriplus
+Architecture: iphoneos-arm64
+Version: 1.3
+Section: 杂七杂八
+Maintainer: 搬运工
+Installed-Size: 1744
+Depends: dev.theos.orion (>= 1.0.0), com.opa334.ccsupport, mobilesubstrate, firmware (>= 13.0)
+Filename: debs/byg.iosios.net.siriplus_1.3_iphoneos-arm64.deb
+Size: 510952
+MD5sum: 8888a5f96997e6e3bb022a958c69a0e8
+SHA1: d7f0d6f03659516c7d454de8c9f6e20806802d89
+SHA256: 691ac8526847fa364de4ee3c0bb43e55e7608492354a5772c4b14d776cfe67ab
+SHA512: e09d66a517440510a976dae10b5f1d1ecdee19ed58edd12f5b713061dc9e0de782cb5b50b8e1823c745d35f52567abd8cc9e7f9636eb741ea5ff073937fe1521
+Description: Replace Siri with ChatGPT/Gemini用ChatGPT或Gemini取代Siri。SiriPlus是用ChatGPT或Gemini取代Siri的一个调整，通过最强大的大型语言模型为用户提供增强的功能、广泛的知识和个性化帮助。需要自己购买API，淘宝或者拼多多。
+Name: SiriPlus智能Siri
+Author: Uckermark
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
+
+Package: byg.iosios.net.zhifubaobs
+Architecture: iphoneos-arm64
+Version: 1.5.5
+Section: 软件破解
+Maintainer: 搬运工
+Installed-Size: 204
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: debs/byg.iosios.net.zhifubaobs_1.5.5_iphoneos-arm64.deb
+Size: 29494
+MD5sum: 93cc954d295a2fe1d23d569514e33663
+SHA1: 95469606f4651615ef95f93abefc92aa4a42a400
+SHA256: 71fb7621fa5c4317d7266031885cd405aa5d35df5509edf7da2de8fcdd181326
+SHA512: 8ec06e78131c92702103e89afa619b0b9ca610276170e410814bbaf0222791749821fecf36fd198f0320138ed61ab2a00eb2380090c2ce14748705b7c679df18
+Description: 支付宝首页，长按任一底栏就可以打开插件设置，更新后需重新设置！插件没效果的解除对支付宝的越狱屏蔽检测
+Name: 支付宝修改步数
+Author: ylr
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
+
 Package: com.nx.accode
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -1393,6 +1509,28 @@ SHA512: 7ecb7da78826cb5f04d1cc72f970bb2403589332551b206dfddfbd09240dc91aac763106
 Description: iOS 26 style Lock Screen widgets
 Name: Soko
 Author: waruhachi
+
+Package: preferenceloader
+Architecture: iphoneos-arm64
+Version: 2.2.5
+Section: 插件依赖
+Maintainer: 搬运工
+Installed-Size: 308
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: debs/preferenceloader_2.2.5_iphoneos-arm64.deb
+Size: 20356
+MD5sum: 70ea182105736e2d380dd4673821e4a0
+SHA1: ada6a5a5044771dfc294fd113ec3890ba1e3a017
+SHA256: 932ca68dee553ed15401b1bb3439d3fdead592aa89a1e91d3042d38a73d70078
+SHA512: 2b0b5e3f5bd0a9d8bb9a187de0e74d1dbfd8784ecd9be2f36472ba123f505c77bc960622a83b9a83421651164cc289290564bbd5985199118c1496ca6438a7ea
+Description: load preferences in style
+ 此版本是无根版本,其他越狱不要安装或更新
+ 本站基本上不搬运依赖，因fugu15越狱的特殊性，如果没有此插件依赖，设置选项会不显示插件，应群友要求，特此上架更新！
+Tag: role::hacker, purpose::library
+Name: PreferenceLoader
+Author: Dustin Howett
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
 
 Package: com.susudear.screencore
 Architecture: iphoneos-arm64
