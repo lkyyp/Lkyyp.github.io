@@ -9,8 +9,8 @@ Description:
 Support: https://lkyyp.github.io/Lkyyp.github.io/
 Icon: https://lkyyp.github.io/Lkyyp.github.io/CydiaIcon.png
 MD5Sum:
- 2480ba74f31684997cf777d86d853110  78111 Packages
- 575362c7f62e17aff3cedaf2f880f8a4  31805 Packages.gz
+ 10722fe0ce4c934cf2546cccccc3e79f  78933 Packages
+ c83cc7aacf019bb5bdb49c31e524fd2f  32130 Packages.gz
 SHA256:
- 9d054bd3b01fc266d5de6f78857a004c26c568a009dca928eec8cfb930e9bf04  78111 Packages
- 91b5292a1be0fab47b3cd350482e421909dfd0e7397706f837ed708eee577ffd  31805 Packages.gz
+ a00f3f489ca27ba4cf26b371ff2a3cdfe20c298812e336bc86d792c3e17b4969  78933 Packages
+ 1fea8e9efd2688ecb3df1f833f35669b2f46010130f29259d41776e4da0676ff  32130 Packages.gz
