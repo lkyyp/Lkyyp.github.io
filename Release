@@ -1,5 +1,5 @@
-Origin: 
-Label: 
+Origin: lkyyp
+Label: lkyyp
 Suite: stable
 Version: 1.0
 Codename: ios
@@ -10,7 +10,7 @@ Support: https://lkyyp.github.io/Lkyyp.github.io/
 Icon: https://lkyyp.github.io/Lkyyp.github.io/CydiaIcon.png
 MD5Sum:
  e904aae61ca86457c4638fcda9ab4014  78782 Packages
- 1147d8785d290b42d1b803a4cb866b75  32069 Packages.gz
+ 29f6c83591445abaa67f430c39b5d6d7  32069 Packages.gz
 SHA256:
  87a2828bc133050eb66c51ac745162c4770593156ca8cbf8503853d89714575b  78782 Packages
- 2ccbab44a0c71543722cef7934b42d90ff524202c4a81dce066d0c7de0b352a6  32069 Packages.gz
+ 3cc0822b221ba4822cbdb0ebd11d6ce18d712fd43057e96d90e05ed1863dbc31  32069 Packages.gz
