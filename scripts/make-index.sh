@@ -32,7 +32,7 @@ gen_hashes(){ local alg="$1"; shift; local f; for f in "$@"; do [ -f "$f" ] || c
   local size; size=$(wc -c < "$f" | tr -d ' '); local h;
   case "$alg" in md5) h=$(md5sum "$f"|awk '{print $1}');; sha256) h=$(sha256sum "$f"|awk '{print $1}');; esac
   printf ' %s  %s %s\n' "$h" "$size" "$f"; done; }
-{ echo "Origin: "; echo "Label: "; echo "Suite: stable"; echo "Version: 1.0";
+{ echo "Origin: lkyyp"; echo "Label: lkyyp"; echo "Suite: stable"; echo "Version: 1.0";
   echo "Codename: ios"; echo "Architectures: iphoneos-arm64 iphoneos-arm64e"; echo "Components: main";
   echo "Description: "; echo "Support: $REPO_URL";
   # Icon 必须写绝对地址：Sileo/Zebra 只认 Release 里的 Icon 行，不会自己去找 CydiaIcon.png
